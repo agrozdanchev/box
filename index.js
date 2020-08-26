@@ -28,7 +28,7 @@ const tickets = [
   'You are the computer whisperer.',
   'This coworker is coding like a boss.',
   'Git pull a day keeps the conflicts away.',
-  'It works on my machine.'
+  'It works on my machine.',
   'I’m a software engineer, not a magician.',
   'Let me THROUGH, I’m an ADMIN.',
   'Error… Smile not found.',
