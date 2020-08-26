@@ -19,7 +19,7 @@ const tickets = [
   'That’s not a bug it’s a feature.',
   'Things are not always #000000 or #FFFFFF.',
   'You had me at “Hello world”.',
-  'Web designers do it with <style>.',
+  'Web designers do it with style.',
   'Binary is as easy as 01, 10, 11.',
   'Sometimes I have no idea why my code is working.',
   'It’s not a bug. It’s an undocumented <feature>.',
@@ -28,7 +28,7 @@ const tickets = [
   'You are the computer whisperer.',
   'This coworker is coding like a boss.',
   'Git pull a day keeps the conflicts away.',
-  'It <works> on my machine.'
+  'It works on my machine.'
   'I’m a software engineer, not a magician.',
   'Let me THROUGH, I’m an ADMIN.',
   'Error… Smile not found.',
