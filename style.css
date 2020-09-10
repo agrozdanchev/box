@@ -54,6 +54,7 @@ div.overlay.show {
 
 .luck {
   position: absolute;
+  margin-top: 80px;
   opacity: 0%;
   padding: 5px 15px;
   min-width: 400px;
