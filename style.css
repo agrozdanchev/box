@@ -40,6 +40,7 @@ button:hover {
 
 div.overlay {
   position: absolute;
+  margin-top: 80px;
   width: 100%;
   height: 100%;
   background-color: black;
